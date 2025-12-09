@@ -1,411 +1,147 @@
 ---
-layout: page
-title: Elements
-image: assets/images/pic01.jpg
+layout: post
+title: "Professor"
+description: "Professor Sunyong Eom – HYU Urban Data Science Laboratory"
+image: assets/images/pic11.jpg
 nav-menu: true
+permalink: /professor/
 ---
 
-<!-- Main -->
-<div id="main" class="alt">
+# Professor / 교수 소개
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Elements</h1>
-		</header>
+![Professor Sunyong Eom](assets/images/prof.jpg){: width="170" style="float:right; margin: 0 0 1rem 1rem; border-radius:24px;" }
 
-<!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-</div>
+## 교수소개 Introduction
 
-<hr class="major" />
+한양대학교 도시대학원의 엄선용 교수는 도시공학 및 데이터 사이언스 분야의 전문가로서,  
+**지속가능한 도시 구조**, **인간의 이동성 및 접근성**, **재해에 강한 도시 계획**에 대한 연구를 수행하고 있습니다.  
 
-<!-- Elements -->
-<h2 id="elements">Elements</h2>
-<div class="row 200%">
-	<div class="6u 12u$(medium)">
+이를 위해 도시수리모델, 도시리스크개론, 도시 및 부동산 정보 분석 등 **공간계획을 위한 이론과 방법론**에 대한 깊은 이해를 바탕으로 학문적 지도를 제공하고 있습니다.  
 
-<!-- Text stuff -->
-<h3>Text</h3>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
-<hr />
-<h2>Heading Level 2</h2>
-<h3>Heading Level 3</h3>
-<h4>Heading Level 4</h4>
-<hr />
-<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+한양대학교에서 학사와 석사 학위를, 일본 츠쿠바대학교에서 박사 학위를 취득한 후, 일본 토요타도시교통연구소, 도쿄대학교 공간정보과학센터, 츠쿠바대학교에서 연구와 교육 활동을 이어왔습니다.  
 
-<!-- Lists -->
-<h3>Lists</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
+“**Diagnosing Cities from Data, Inventing a Better Future**”라는 슬로건 아래,  
+도시를 복잡하고 거대한 시스템으로서 데이터를 통해 이해하고,  
+지속가능하며 행복한 도시를 만들기 위한 정책 결정에 필요한 **정량적 증거와 실질적 해결책**을 제시하는 데 큰 관심을 가지고 있습니다.
 
-		<h4>Unordered</h4>
-		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
-		</ul>
+Associate Professor **Sunyong Eom** at the Graduate School of Urban Science, Hanyang University,  
+is an expert in urban engineering and data science. He conducts research on sustainable urban structures,  
+human mobility and accessibility, and disaster-resilient urban planning. His academic guidance is grounded  
+in a deep understanding of urban mathematical models, urban risk fundamentals, and the analysis of urban and  
+real estate information.  
 
-		<h4>Alternate</h4>
-		<ul class="alt">
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis feugiat viverra.</li>
-		</ul>
+After earning his bachelor's and master's degrees from Hanyang University and a Ph.D. in Risk Engineering  
+from the University of Tsukuba, he continued research and teaching at the Toyota Transportation Research Institute,  
+the Center for Spatial Information Science at the University of Tokyo, and the University of Tsukuba.  
 
-	</div>
-	<div class="6u$ 12u$(small)">
+Under the slogan *“Diagnosing Cities from Data, Inventing a Better Future,”* he aims to understand cities as  
+complex, large-scale systems through data and to provide evidence and solutions for sustainable and happy cities.
 
-		<h4>Ordered</h4>
-		<ol>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Etiam vel lorem sed viverra.</li>
-			<li>Felis dolore viverra.</li>
-		</ol>
+---
 
-		<h4>Icons</h4>
-		<ul class="icons">
-			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
-		</ul>
-		<ul class="icons">
-			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-		</ul>
+## Affiliation & Profile / 소속 및 프로필
 
-	</div>
-</div>
+- **Affiliation**  
+  Associate Professor, Graduate School of Urban Science, Hanyang University, Seoul, Korea  
+  한양대학교 도시대학원 부교수, HYU Urban Data Science Laboratory (HUDS Lab) Director
 
-<h4>Definition</h4>
-<dl>
-	<dt>Item1</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item2</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-	<dt>Item3</dt>
-	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
-	</dd>
-</dl>
+- **Office (연구실 위치)**  
+  신소재공학관 626호  
 
-<h4>Actions</h4>
-<ul class="actions">
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions small">
-	<li><a href="#" class="button special small">Small</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special">Default</a></li>
-			<li><a href="#" class="button">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small">Small</a></li>
-			<li><a href="#" class="button small">Small</a></li>
-		</ul>
-	</div>
-	<div class="6u 12u$(small)">
-		<ul class="actions vertical">
-			<li><a href="#" class="button special fit">Default</a></li>
-			<li><a href="#" class="button fit">Default</a></li>
-		</ul>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<ul class="actions vertical small">
-			<li><a href="#" class="button special small fit">Small</a></li>
-			<li><a href="#" class="button small fit">Small</a></li>
-		</ul>
-	</div>
-</div>
+- **Contact**  
+  - Email: sunyongeom@hanyang.ac.kr  
+  - Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=lIETjGEAAAAJ&hl=ja)
 
-<!-- Blockquote -->
-<h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
+---
 
-<!-- Table -->
-<h3>Table</h3>
+## Research Interests / 연구 관심 분야
 
-<h4>Default</h4>
-<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
+- Geographic Information System (GIS) / 지리정보시스템  
+- Urban Planning / 도시계획  
+- Land Use / 토지이용  
+- Urban Analysis / 도시해석  
 
-<h4>Alternate</h4>
-<div class="table-wrapper">
-	<table class="alt">
-		<thead>
-			<tr>
-				<th>Name</th>
-				<th>Description</th>
-				<th>Price</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-				<td>29.99</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-				<td>19.99</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-				<td>29.99</td>
-			</tr>
-		</tbody>
-		<tfoot>
-			<tr>
-				<td colspan="2"></td>
-				<td>100.00</td>
-			</tr>
-		</tfoot>
-	</table>
-</div>
+---
 
-</div>
-<div class="6u$ 12u$(medium)">
+## 학력 Education
 
-<!-- Buttons -->
-<h3>Buttons</h3>
-<ul class="actions">
-	<li><a href="#" class="button special">Special</a></li>
-	<li><a href="#" class="button">Default</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button big">Big</a></li>
-	<li><a href="#" class="button">Default</a></li>
-	<li><a href="#" class="button small">Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special big">Big</a></li>
-	<li><a href="#" class="button special">Default</a></li>
-	<li><a href="#" class="button special small">Small</a></li>
-</ul>
-<ul class="actions fit">
-	<li><a href="#" class="button special fit">Fit</a></li>
-	<li><a href="#" class="button fit">Fit</a></li>
-</ul>
-<ul class="actions fit small">
-	<li><a href="#" class="button special fit small">Fit + Small</a></li>
-	<li><a href="#" class="button fit small">Fit + Small</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#" class="button special icon fa-search">Icon</a></li>
-	<li><a href="#" class="button icon fa-download">Icon</a></li>
-</ul>
-<ul class="actions">
-	<li><span class="button special disabled">Special</span></li>
-	<li><span class="button disabled">Default</span></li>
-</ul>
+- **Apr. 2013 – Mar. 2018**  
+  Risk Engineering, Graduate School of Systems and Information Engineering, University of Tsukuba  
+  일본 츠쿠바대학교 시스템정보공학연구과 리스크공학전공, 박사(공학)  
+  · 논문제목: *용도 간의 상호관계·혼합도에 주목한 토지이용구조의 정량화와 평가에 관한 연구*  
+  · Dissertation Title: *A Study on Quantification and Evaluation of Land-use Structure  
+    Focusing on Interaction and Mixture Between Land-use Categories*
 
-<!-- Form -->
-<h3>Form</h3>
+- **Mar. 2010 – Feb. 2012**  
+  Department of Urban Planning, Graduate School, Hanyang University  
+  한양대학교 일반대학원 도시공학과, 공학석사  
+  · 논문제목: *대학 주변지역의 토지이용 특성에 따른 관리방안에 관한 연구*  
+  · Dissertation Title: *A Study on Management Plan Based on Characteristics of Land Use  
+    in Surrounding Area of University*
 
-<form method="post" action="#">
-	<div class="row uniform">
-		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
-		</div>
-		<div class="6u$ 12u$(xsmall)">
-			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<div class="select-wrapper">
-				<select name="demo-category" id="demo-category">
-					<option value="">- Category -</option>
-					<option value="1">Manufacturing</option>
-					<option value="1">Shipping</option>
-					<option value="1">Administration</option>
-					<option value="1">Human Resources</option>
-				</select>
-			</div>
-		</div>
-		<!-- Break -->
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
-			<label for="demo-priority-low">Low</label>
-		</div>
-		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-normal" name="demo-priority">
-			<label for="demo-priority-normal">Normal</label>
-		</div>
-		<div class="4u$ 12u$(small)">
-			<input type="radio" id="demo-priority-high" name="demo-priority">
-			<label for="demo-priority-high">High</label>
-		</div>
-		<!-- Break -->
-		<div class="6u 12u$(small)">
-			<input type="checkbox" id="demo-copy" name="demo-copy">
-			<label for="demo-copy">Email me a copy</label>
-		</div>
-		<div class="6u$ 12u$(small)">
-			<input type="checkbox" id="demo-human" name="demo-human" checked>
-			<label for="demo-human">I am a human</label>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-		</div>
-		<!-- Break -->
-		<div class="12u$">
-			<ul class="actions">
-				<li><input type="submit" value="Send Message" class="special" /></li>
-				<li><input type="reset" value="Reset" /></li>
-			</ul>
-		</div>
-	</div>
-</form>
+- **Mar. 2004 – Feb. 2010**  
+  Department of Urban Planning and Engineering, College of Engineering, Hanyang University  
+  한양대학교 공과대학 도시공학과, 공학사(졸업우수)
 
-<!-- Image -->
-<h3>Image</h3>
+---
 
-<h4>Fit</h4>
-<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-	</div>
-</div>
+## 연구 및 교육경력 Professional Appointment
 
-<h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+- **Jan. 2025 – Present**  
+  Associate Professor, Graduate School of Urban Science, Hanyang University  
 
-<!-- Box -->
-<h3>Box</h3>
-<div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
-</div>
+- **Apr. 2023 – Aug. 2024**  
+  Associate Professor, Faculty of Engineering, Information and Systems, University of Tsukuba  
 
-<!-- Preformatted Code -->
-<h3>Preformatted</h3>
-<pre><code>i = 0;
+- **Jun. 2021 – Mar. 2023**  
+  Assistant Professor, Faculty of Engineering, Information and Systems, University of Tsukuba  
 
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
+- **Nov. 2020 – Mar. 2022**  
+  Shibaura Institute of Technology (Teaching / Research appointment)  
 
-print 'It took ' + i + ' iterations to sort the deck.';
-</code></pre>
+- **Nov. 2020 – Jun. 2021**  
+  University of Tsukuba (Research appointment)  
 
-</div>
-</div>
+- **Mar. 2019 – Jun. 2021**  
+  Center for Spatial Information Science, The University of Tokyo – Project / Visiting Researcher  
 
-</div>
-</section>
+- **Apr. 2018 – Mar. 2019**  
+  Engineer / Researcher, Toyota Transportation Research Institute  
 
-</div>
+---
+
+## Awards / 수상
+
+- **Feb. 2021** – 2020年度 シンフォニカ 統計GIS活動奨励賞, 통계정보연구개발센터  
+- **Oct. 2020** – Poster Session Award, GIS Association of Japan (2회)  
+- **Mar. 2018** – 리스크공학전공장상(교육·사회공헌 부문), University of Tsukuba  
+- **Oct. 2011** – 대한국토·도시계획학회 2011년 추계학술대회 최우수논문상  
+
+---
+
+## Professional Memberships / 학회 활동
+
+- Korean Planning Association  
+- The Operations Research Society of Japan  
+- Architectural Institute of Japan  
+- Geographic Information Systems Association of Japan  
+- The City Planning Institute of Japan  
+
+---
+
+## Research Projects / 주요 연구과제
+
+- 「計画的な相互融通」による災害時応急対応上の周辺自治体間連携の効果と適正スケール  
+  (재해 시 응급 대응을 위한 자치단체 간 상호 연계 효과와 적정 스케일에 관한 연구),  
+  JSPS Grants-in-Aid for Scientific Research (B), 2024–2028.
+
+- Urban Structure Design for Climate Change Adaptation and Mitigation Using Transportation Big Data,  
+  JSPS Grants-in-Aid for Early-Career Scientists, 2023–2025.
+
+- Mathematical Model for Effective Intermunicipal Cooperation Regarding Daily and Emergency Facility Usage,  
+  Hirose Foundation, 2022–2024.
+
+- Development of Planning Support Method for Improving Accessibility by Connecting Land Use, Facility,  
+  and Public Transportation, JSPS Grants-in-Aid for Early-Career Scientists, 2019–2023.
+
+- A Study for Clarifying the Desirable Land-use Pattern by Combining Various Spatial Data, 2020–2021.
