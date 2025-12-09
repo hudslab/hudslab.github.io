@@ -1,68 +1,122 @@
 ---
 layout: post
-title: "People"
-description: "HYU Urban Data Science Lab Members"
-image: assets/images/pic11.jpg   # 썸네일 이미지 그대로 둬도 되고 나중에 바꿔도 됩니다.
+title: "Publications & Conference Papers"
+description: "HUDS Lab 학생별 연구실적 정리"
+image: assets/images/pic11.jpg   # 썸네일 이미지는 나중에 바꾸셔도 됩니다.
 nav-menu: true
-permalink: /people/
+permalink: /publications/
 ---
 
-## Professor / 교수
-
-![Professor Sunyong Eom](assets/images/prof.jpg){: width="150" style="float:right; margin: 0 0 1rem 1rem; border-radius:50%;" }
-
-**Sunyong Eom (엄선용)**  
-Associate Professor, Graduate School of Urban Studies (GSUS), Hanyang University  
-한양대학교 도시대학원 부교수, HYU Urban Data Science Laboratory Director
-
-- **Office (연구실 위치)**: 신소재공학관 626호  
-- **Email**: sunyongeom@hanyang.ac.kr  
-- **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=lIETjGEAAAAJ&hl=ja)
-
-**학위 (Degree)**  
-- Ph.D. in Risk Engineering, University of Tsukuba  
-- M.S. in Urban Planning, Hanyang University  
-- B.S. in Urban Planning and Engineering, Hanyang University  
-
-**연구 관심 분야 (Research Interests)**  
-- 도시 해석 및 빅데이터 
-- 대중교통 접근성과 교통 형평성  
-- 토지이용 및 도시공간구조 최적화 
-- 기후·재해 리스크를 고려한 도시계획
+# Publications & Conference Papers  
+HUDS Lab 학생별 논문 및 학회 발표 실적을 정리한 페이지입니다.  
+각 학생에 대해 **Publications(논문)** 과 **Conference Papers(학회 발표)** 항목으로 구분하여 정리합니다.
 
 ---
 
-## Students / 학생
+## Ph.D. Students / 박사과정
 
-연구실에는 박사과정 3명, 석사과정 4명이 재학 중입니다.
+### 김승훈 (Seunghoon Kim)
 
-### Ph.D. Students / 박사과정
+#### Publications / 논문
 
-- **김승훈 (Seunghoon Kim)**  
-  *(세부 내용 추후 업데이트 예정입니다.)*
+- (현재 준비 중입니다.)
 
-- **박사랑 (Sarang Park)**  
-  *(세부 내용 추후 업데이트 예정입니다.)*
+#### Conference Papers / 학회 발표
 
-- **홍성경 (Seongkyung Hong)**  
-  *(세부 내용 추후 업데이트 예정입니다.)*
+- **서울시 공공자전거 따릉이의 통행목적별 대여량에 미치는 요인 실증 분석**  
+  (양희제, 김승훈, 박진아, 엄선용)  
+  한국도시설계학회 추계학술대회, 전주대학교, 2025년 11월 8일. **(우수논문상)**
 
-### M.S. Students / 석사과정
-
-- **강민지 (Minji Kang)**  
-  *(세부 내용 추후 업데이트 예정입니다.)*
-
-- **이채원 (Chaewon Lee)**  
-  *(세부 내용 추후 업데이트 예정입니다.)*
-
-- **육준수 (Junsu Yook)**  
-  *(세부 내용 추후 업데이트 예정입니다.)*
-
-- **이영환 (Younghwan Lee)**  
-  *(세부 내용 추후 업데이트 예정입니다.)*
+- **도시공간의 양적·분포적 특성과 건물에너지소비량 간의 관계에 대한 연구**  
+  (김승훈, 이채원, 이명훈, 엄선용)  
+  한국도시부동산학회 춘계학술대회, 서울대학교, 2025년 5월 24일.
 
 ---
 
-## Alumni / 졸업생
+### 박사랑 (Sarang Park)
 
-졸업생 정보는 추후 업데이트할 예정입니다.
+#### Publications / 논문
+
+- (현재 준비 중입니다.)
+
+#### Conference Papers / 학회 발표
+
+- (현재 준비 중입니다.)
+
+---
+
+### 홍성경 (Seongkyung Hong)
+
+#### Publications / 논문
+
+- (현재 준비 중입니다.)
+
+#### Conference Papers / 학회 발표
+
+- (현재 준비 중입니다.)
+
+---
+
+## M.S. Students / 석사과정
+
+### 강민지 (Minji Kang)
+
+#### Publications / 논문
+
+- (현재 준비 중입니다.)
+
+#### Conference Papers / 학회 발표
+
+- **대중교통 기반 생활권 형성을 위한 기초생활인프라 접근성 연구**  
+  (강민지, 엄선용)  
+  대한국토도시계획학회 추계학술대회, 한국교통대학교, 2025년 11월 1일. **(우수논문상)**
+
+- **대중교통을 이용한 다양한 시설 이용 접근성 평가**  
+  (강민지, 엄선용)  
+  대한교통학회 추계학술대회, 제주신화월드, 2025년 9월 26일. **(우수논문상)**
+
+- **지역 간 이동 대중교통 접근성 평가**  
+  (강민지, 엄선용)  
+  한국도시부동산학회 춘계학술대회, 서울대학교, 2025년 5월 24일. **(우수논문상)**
+
+---
+
+### 이채원 (Chaewon Lee)
+
+#### Publications / 논문
+
+- (현재 준비 중입니다.)
+
+#### Conference Papers / 학회 발표
+
+- **스케일링 분석을 활용한 기초생활인프라 공급 적정성 분석**  
+  (이채원, 엄선용, 이명훈)  
+  대한국토도시계획학회 추계학술대회, 한국교통대학교, 2025년 11월 1일. **(우수논문상)**
+
+- **도시공간의 양적·분포적 특성과 건물에너지소비량 간의 관계에 대한 연구**  
+  (김승훈, 이채원, 이명훈, 엄선용)  
+  한국도시부동산학회 춘계학술대회, 서울대학교, 2025년 5월 24일.
+
+---
+
+### 이영환 (Younghwan Lee)
+
+#### Publications / 논문
+
+- (현재 준비 중입니다.)
+
+#### Conference Papers / 학회 발표
+
+- (현재 준비 중입니다.)
+
+---
+
+### 육준수 (Junsu Yook)
+
+#### Publications / 논문
+
+- (현재 준비 중입니다.)
+
+#### Conference Papers / 학회 발표
+
+- (현재 준비 중입니다.)
