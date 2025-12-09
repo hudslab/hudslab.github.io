@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "Students"
-permalink: /students/
+description: "HUDS Lab Students – Publications & Conference Papers"
+image: assets/images/back2.jpg
 nav-menu: true
 permalink: /students/
 ---
-
 # Students / 학생 소개
 
 HUDS Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 재학 중입니다.  
-각 학생별 **Publications(논문)** 과 **Conference Papers(학회 발표)**를 정리하였습니다.
 
 ---
 
