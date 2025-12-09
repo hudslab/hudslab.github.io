@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Professor"
-description: "Professor Sunyong Eom – HYU Urban Data Science Laboratory"
-image: assets/images/pic11.jpg
-nav-menu: true
+permalink: /professor/
+nav-menu: true   # 있어도 되고 없어도 됨, 이제는 안 씀
 permalink: /professor/
 ---
 
