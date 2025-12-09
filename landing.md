@@ -1,87 +1,53 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+layout: post
+title: "Photos"
+description: "HUDS Lab Photos – Seminars, Conferences, and Lab Events"
+image: assets/images/pic03.jpg
 nav-menu: true
+permalink: /photos/
 ---
 
-<!-- Main -->
-<div id="main">
+# Photos / 연구실 사진
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
-</section>
+연구실 세미나, 학회 발표, 워크숍 등 HUDS Lab의 활동을 기록한 사진들입니다.  
+아래는 예시이며, 실제 사진 파일 이름과 설명으로 교체하여 사용하시면 됩니다.
 
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
+---
 
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
+## Lab Opening / 연구실 개소식
 
-</div>
+- **날짜**: 2025-03-01  
+- **설명**: HUDS Lab 개소를 기념하여 도시대학원 구성원들과 함께 촬영한 사진입니다.  
+
+![Lab Opening](assets/images/opening.jpg){: width="420" }
+
+---
+
+## Urban Data Analytics Workshop / 도시 데이터 분석 워크숍
+
+- **날짜**: 2025-07-15  
+- **설명**: 공간 빅데이터와 GTFS, GIS를 활용한 도시 데이터 분석 실습 장면입니다.  
+
+![Workshop 2025](assets/images/workshop2025.jpg){: width="420" }
+
+---
+
+## Conference Presentations / 학회 발표
+
+- **예시 1 – 국제 학회 발표**  
+  ![Conference 2024](assets/images/conference2024.jpg){: width="420" }  
+  <small>국제 학술대회에서 박사과정 및 석사과정 학생들이 연구 결과를 발표하는 장면입니다.</small>
+
+- **예시 2 – 국내 학회 발표**  
+  ![Domestic Conference](assets/images/conference_domestic.jpg){: width="420" }  
+  <small>국내 학회에서 HUDS Lab의 연구 성과를 공유하는 모습입니다.</small>
+
+---
+
+추가 사진은 위 형식을 그대로 복사하여  
+- **제목**,  
+- **날짜**,  
+- **설명**,  
+- `assets/images/파일명`  
+
+만 변경하면 손쉽게 갤러리를 확장하실 수 있습니다.
