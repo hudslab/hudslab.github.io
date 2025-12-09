@@ -8,4 +8,5 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+HUDS Lab은 한양대학교 도시대학원에 소속된 도시 데이터 사이언스 연구실입니다.
+대중교통 접근성, 토지이용 구조, 기후·재해 리스크를 데이터 기반으로 분석하여 지속가능하고 회복력 있는 도시계획을 제안합니다.
