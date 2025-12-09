@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Publications & Conference Papers"
-description: "HUDS Lab 학생별 연구실적 정리"
-image: assets/images/pic11.jpg   # 썸네일 이미지는 나중에 바꾸셔도 됩니다.
+title: "Students"
+description: "HUDS Lab Students – Publications & Conference Papers"
+image: assets/images/pic01.jpg
 nav-menu: true
-permalink: /publications/
+permalink: /students/
 ---
 
-# Publications & Conference Papers  
-HUDS Lab 학생별 논문 및 학회 발표 실적을 정리한 페이지입니다.  
-각 학생에 대해 **Publications(논문)** 과 **Conference Papers(학회 발표)** 항목으로 구분하여 정리합니다.
+# Students / 학생 소개
+
+HUDS Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 재학 중입니다.  
+각 학생별 **Publications(논문)** 과 **Conference Papers(학회 발표)**를 정리하였습니다.
 
 ---
 
