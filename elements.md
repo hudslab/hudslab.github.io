@@ -1,16 +1,15 @@
 ---
 layout: post
 title: "Professor"
-permalink: /professor/
-nav-menu: true   # 있어도 되고 없어도 됨, 이제는 안 씀
+description: "Professor Sunyong Eom – HYU Urban Data Science Laboratory"
+image: assets/images/back1.jpg
+nav-menu: true
 permalink: /professor/
 ---
 
 # Professor / 교수 소개
 
 ![Professor Sunyong Eom](assets/images/prof.jpg){: width="170" style="float:right; margin: 0 0 1rem 1rem; border-radius:24px;" }
-
-## 교수소개 Introduction
 
 한양대학교 도시대학원의 엄선용 교수는 도시공학 및 데이터 사이언스 분야의 전문가로서,  
 **지속가능한 도시 구조**, **인간의 이동성 및 접근성**, **재해에 강한 도시 계획**에 대한 연구를 수행하고 있습니다.  
