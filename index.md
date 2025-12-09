@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'HUDS LAB에 오신 것을 환영합니다'
 description: null
 image: null
 author: null
