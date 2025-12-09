@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Photos"
-description: "HUDS Lab Photos – Seminars, Conferences, and Lab Events"
-image: assets/images/pic03.jpg
+permalink: /photos/
 nav-menu: true
 permalink: /photos/
 ---
