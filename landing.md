@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Photos"
-permalink: /photos/
+description: "HUDS Lab Photos – Seminars, Conferences, and Lab Events"
+image: assets/images/pic03.jpg   # 이게 타일 배경
 nav-menu: true
 permalink: /photos/
 ---
+
 
 # Photos / 연구실 사진
 
