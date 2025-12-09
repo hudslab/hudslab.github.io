@@ -2,7 +2,7 @@
 layout: post
 title: "Students"
 description: "HUDS Lab Students – Publications & Conference Papers"
-image: assets/images/back2.jpg
+image: assets/images/back1.jpg
 nav-menu: true
 permalink: /students/
 ---
