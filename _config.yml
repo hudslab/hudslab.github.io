@@ -1,17 +1,24 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+title: HUDS Lab
+subtitle: HYU Urban Data Science Laboratory
+email: sunyongeom@hanyang.ac.kr
+description: >
+  HYU Urban Data Science Laboratory (HUDS Lab) at Hanyang University
+  focuses on public transport accessibility, land-use patterns, and
+  climate·risk-sensitive urban planning.
+
+# GitHub Pages용 설정
+baseurl: ""                       # 사용자 페이지는 항상 빈 문자열
+url: "https://hudslab.github.io"  # 내 사이트 주소
+
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+  name: "Sunyong Eom"
+  street_address: "222 Wangsimni-ro"
+  city: "Seoul"
+  state: ""
+  zip_code: "04763"
+  country: "Republic of Korea"
+  phone: ""
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
