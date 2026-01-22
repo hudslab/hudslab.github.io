@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Professor"
-description: "Professor Sunyong Eom – HYU Urban Data Science Laboratory"
+description: "Professor Sunyong Eom – HYU Land Use Laboratory"
 image: assets/images/back2.jpg
 nav-menu: true
 permalink: /professor/
