@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Students"
-description: "HUDS Lab Students – Publications & Conference Papers"
+description: "Land use Lab Students – Publications & Conference Papers"
 image: assets/images/back1.jpg
 nav-menu: true
 permalink: /students/
 ---
 # Students / 학생 소개
 
-HUDS Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 재학 중입니다.  
+Land use Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 재학 중입니다.  
 
 ---
 
@@ -111,6 +111,18 @@ HUDS Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 재�
 ---
 
 ### 육준수 (Junsu Yook)
+
+#### Publications / 논문
+
+- (현재 준비 중입니다.)
+
+#### Conference Papers / 학회 발표
+
+- (현재 준비 중입니다.)
+
+---
+
+### 오은총 (Eunchong Oh)
 
 #### Publications / 논문
 
