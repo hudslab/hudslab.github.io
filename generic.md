@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Students"
-description: "Land use Lab Students – Publications & Conference Papers"
+description: "Land Use Lab Students – Publications & Conference Papers"
 image: assets/images/back1.jpg
 nav-menu: true
 permalink: /students/
