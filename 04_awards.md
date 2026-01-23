@@ -9,7 +9,7 @@ permalink: /awards/
 
 # Awards / 수상성과
 
-HYU Land Use Lab의 수상성과 입니다. 
+Land Use Lab의 수상성과 입니다. 
 
 ---
 
