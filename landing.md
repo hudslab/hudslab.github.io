@@ -29,12 +29,12 @@ permalink: /photos/
   ![Conference 2024](assets/images/conference2024.jpg){: width="420" }  
   <small>국제 학술대회에서 박사과정 및 석사과정 학생들이 연구 결과를 발표하는 장면입니다.</small>
 
-## 대한교통학회 제93회 학술대회 (2025년 추계학술대회)
+##  2025년 대한교통학회 추계학술대회
 
 - **날짜**: 2025-09-25 ~ 2025-09-27
 - **장소**: 제주신화월드 랜딩컨벤션센터
-- **설명**: 연구실 구성원(강민지 석사과정) 학생이 '대중교통을 이용한 시설 이용 접근성 평가'를 주제로 연구 성과를 발표하였습니다.
-
+- **설명**: 연구실 구성원(강민지) 학생이 연구 결과 및 성과를 발표하였습니다.
+- **주제 및 제목**: 대중교통을 이용한 시설 이용 접근성 평가
 <table style="width: 100%; border: none; background: transparent; margin: 0;">
   <tr style="border: none;">
     <td style="width: 50%; padding: 5px; border: none;">
@@ -42,6 +42,26 @@ permalink: /photos/
     </td>
     <td style="width: 50%; padding: 5px; border: none;">
       <img src="/assets/images/conference_2025/KST_Autumn/KST_conference_fall_group_photo.jpg" alt="Group" style="width: 100%; border-radius: 5px;">
+    </td>
+  </tr>
+</table>
+
+##  2025년 대한국토·도시계획학회 추계학술대회
+
+- **날짜**: 2025-10-31 ~ 2025-11-01
+- **장소**: 국립한국교통대학교 충주캠퍼스
+- **설명**: 연구실 구성원(강민지, 이채원) 학생들이 연구 결과 및 성과를 발표하였습니다..
+- **주제 및 제목**: 대중교통 기반 생활권 형성을 위한 기초생활인프라 접근성 연구, 스케일링 분석을 활용한 기초생활인프라 공급 적정성 분석
+<table style="width: 100%; border: none; background: transparent; margin: 0;">
+  <tr style="border: none;">
+    <td style="width: 33%; padding: 5px; border: none;">
+      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_presentation_kangmingi.jpg" alt="Presentation" style="width: 100%; border-radius: 5px;">
+    </td>
+    <td style="width: 33%; padding: 5px; border: none;">
+      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_presentation_leechaewon.jpg" alt="Presentation" style="width: 100%; border-radius: 5px;">
+    </td>
+    <td style="width: 3%; padding: 5px; border: none;">
+      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_group_photo.jpg" alt="Group" style="width: 100%; border-radius: 5px;">
     </td>
   </tr>
 </table>
