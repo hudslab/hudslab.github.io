@@ -2,7 +2,7 @@
 layout: post
 title: "Awards"
 description: "Land Use Lab Awards & Honors"
-image: assets/images/back1.jpg
+image: assets/images/back/back_awards.jpg
 nav-menu: true
 permalink: /awards/
 ---
