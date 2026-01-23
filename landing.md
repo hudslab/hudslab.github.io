@@ -44,7 +44,14 @@ permalink: /photos/
 - 날짜: 2025-09-25 ~ 2025-09-27  
 - 장소: 제주신화월드 랜딩컨벤션센터  
 - 설명: 강민지(석사과정) 학생이 참석하여 연구 성과를 발표 및 단체 사진입니다.  
-![KST Conference 2025](assets/images/학회%20발표%20사진_2025/1.%20교통학회_추계/교통학회_단체사진_.jpg){: width="420" }
+<div style="display: flex; gap: 10px; justify-content: center;">
+    <div style="width: 49%;">
+        <img src="assets/images/학회%20발표%20사진_2025/1.%20교통학회_추계/교통학회_발표사진(2025%20추계).jpg" alt="발표 사진" style="width: 100%; border-radius: 5px;">
+    </div>
+    <div style="width: 49%;">
+        <img src="assets/images/학회%20발표%20사진_2025/1.%20교통학회_추계/교통학회_단체사진_.jpg" alt="단체 사진" style="width: 100%; border-radius: 5px;">
+    </div>
+</div>
 
 - ** 추가 사진은 위 형식을 그대로 복사하여**  
 - **제목**,  
@@ -52,4 +59,4 @@ permalink: /photos/
 - **설명**,  
 - `assets/images/파일명`  
 
-만 변경하면 손쉽게 갤러리를 확장하실 수 있습니다.
+-  **만 변경하면 손쉽게 갤러리를 확장하실 수 있습니다.**
