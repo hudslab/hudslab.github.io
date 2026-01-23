@@ -8,13 +8,17 @@ permalink: /students/
 ---
 # Students / 학생 소개
 
-Land use Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 재학 중입니다.  
+Land use Lab에는 **박사과정 3명, 석사과정 5명**의 대학원생이 재학 중입니다.  
 
 ---
 
 ## Ph.D. Students / 박사과정
 
 ### 김승훈 (Seunghoon Kim)
+
+#### Research Interests / 연구 관심분야
+
+- 최적화 모델(Optimization Models), 도시계획(Urban Planning), 빅데이터(Big Data)  
 
 #### Publications / 논문
 
@@ -34,6 +38,10 @@ Land use Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 �
 
 ### 박사랑 (Sarang Park)
 
+#### Research Interests / 연구 관심분야
+
+- 도시기본계획(Urban Master Plan), 인구감소(Population Decline), 공간구조(Spatial Structure)  
+
 #### Publications / 논문
 
 - (현재 준비 중입니다.)
@@ -45,6 +53,10 @@ Land use Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 �
 ---
 
 ### 홍성경 (Seongkyung Hong)
+
+#### Research Interests / 연구 관심분야
+
+- 인구(Demography), 최적화 모델(Optimization Models), 공간분석(Spatial Analysis)  
 
 #### Publications / 논문
 
@@ -59,6 +71,10 @@ Land use Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 �
 ## M.S. Students / 석사과정
 
 ### 강민지 (Minji Kang)
+
+#### Research Interests / 연구 관심분야
+
+- 대중교통(Public Transportation), 인구 이동성(Human Mobility), 시설 최적화(Facility Location Optimization)  
 
 #### Publications / 논문
 
@@ -82,6 +98,10 @@ Land use Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 �
 
 ### 이채원 (Chaewon Lee)
 
+#### Research Interests / 연구 관심분야
+
+- 부동산 금융(Real Estate Finance), 공간분석(Spatial Analysis), 머신러닝(Machine Learning)  
+
 #### Publications / 논문
 
 - (현재 준비 중입니다.)
@@ -100,6 +120,10 @@ Land use Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 �
 
 ### 이영환 (Younghwan Lee)
 
+#### Research Interests / 연구 관심분야
+
+- 부동산 개발(Real Estate Development), 부동산 금융(Real Estate Finance), 토지이용계획(Land Use Plan)  
+
 #### Publications / 논문
 
 - (현재 준비 중입니다.)
@@ -111,6 +135,10 @@ Land use Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 �
 ---
 
 ### 육준수 (Junsu Yook)
+
+#### Research Interests / 연구 관심분야
+
+- 부동산 개발(Real Estate Development), 부동산 금융(Real Estate Finance), 타당성 분석(Feasibility Analysis)  
 
 #### Publications / 논문
 
@@ -124,6 +152,10 @@ Land use Lab에는 **박사과정 3명, 석사과정 4명**의 대학원생이 �
 
 ### 오은총 (Eunchong Oh)
 
+#### Research Interests / 연구 관심분야
+
+- 건축·공간설계 (Architectural and Spatial Design), 도시계획(Urban Planning), 도시설계(Urban Design)
+  
 #### Publications / 논문
 
 - (현재 준비 중입니다.)
