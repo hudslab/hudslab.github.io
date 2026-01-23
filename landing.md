@@ -34,7 +34,7 @@ permalink: /photos/
 - **날짜**: 2025-09-25 ~ 2025-09-27
 - **장소**: 제주신화월드 랜딩컨벤션센터
 - **설명**: 연구실 구성원(강민지) 학생이 연구 결과 및 성과를 발표하였습니다.
-- **주제 및 제목**: 대중교통을 이용한 시설 이용 접근성 평가
+- **주제 및 제목**: 대중교통을 이용한 시설 이용 접근성 평가(강민지·엄선용)
 <table style="width: 100%; border: none; background: transparent; margin: 0;">
   <tr style="border: none;">
     <td style="width: 50%; padding: 5px; border: none;">
@@ -53,22 +53,25 @@ permalink: /photos/
 - **설명**: 연구실 구성원(강민지, 이채원) 학생들이 연구 결과 및 성과를 발표하였습니다.
 - **주제 및 제목**: 대중교통 기반 생활권 형성을 위한 기초생활인프라 접근성 연구, 스케일링 분석을 활용한 기초생활인프라 공급 적정성 분석
 
-<table style="width: 100%; border: none; background: transparent; margin: 0;">
+## 2025년 대한국토·도시계획학회 추계학술대회
+
+- **날짜**: 2025-10-31 ~ 2025-11-01
+- **장소**: 국립한국교통대학교 충주캠퍼스
+- **설명**: 연구실 구성원(강민지, 이채원) 학생들이 연구 결과 및 성과를 발표하였습니다.
+- **주제 및 제목**: 대중교통 기반 생활권 형성을 위한 기초생활인프라 접근성 연구(강민지), 스케일링 분석을 활용한 기초생활인프라 공급 적정성 분석(이채원·엄선용·이명훈)
+
+<table style="width: 100%; border: none; background: transparent; margin: 0; table-layout: fixed;">
   <tr style="border: none;">
-    <td style="width: 33%; padding: 5px; border: none;">
-      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_presentation_kangmingi.png" alt="Kang Minji Presentation" style="width: 100%; border-radius: 5px;">
+    <td style="width: 33.3%; padding: 3px; border: none;">
+      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_presentation_kangmingi.png" alt="Kang Minji" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
     </td>
-    <td style="width: 33%; padding: 5px; border: none;">
-      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_presentation_leechaewon.png" alt="Lee Chaewon Presentation" style="width: 100%; border-radius: 5px;">
+    <td style="width: 33.3%; padding: 3px; border: none;">
+      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_presentation_leechaewon.png" alt="Lee Chaewon" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
     </td>
-    <td style="width: 33%; padding: 5px; border: none;">
-      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_group_photo.png" alt="Group Photo" style="width: 100%; border-radius: 5px;">
+    <td style="width: 33.3%; padding: 3px; border: none;">
+      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_group_photo.png" alt="Group" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
     </td>
   </tr>
 </table>
 
-'- ** 추가 사진은 위 형식을 그대로 복사하여**'
-- **제목**,  
-- **날짜**,  
-- **설명**,  
-- ** `assets/images/파일명` 만 변경하면 손쉽게 갤러리를 확장하실 수 있습니다.**
+
