@@ -14,11 +14,30 @@ permalink: /photos/
 
 ---
 
-## Urban Data Analytics Workshop / 도시 데이터 분석 워크숍 및 외부활동
+## Urban Data Analytics Workshop / 도시 데이터 분석 워크숍 
 
 - **날짜**: 2026-02-04 ~ 2026-02-08 (예정)
 - **장소**: 일본 도쿄 및 츠쿠바대학교
 
+---
+
+## 연구실 외부활동
+
+### 2025 AURI 주거정책 포럼(살기위한 공간에서 살고싶은 공간으로: 청년 주거의 현재와 미래)
+
+- **날짜**: 2025-11-26
+- **장소**: KT&G 상상플래닛 1층 커넥트
+
+<table style="width: 100%; border: none; background: transparent;">
+    <tr style="background: transparent; border: none;">
+        <td style="width: 50%; padding: 5px; border: none;">
+            <img src="/assets/images/Auri_2025/Auri_v1.png" alt="v1" style="width: 100%; border-radius: 5px;">
+        </td>
+        <td style="width: 50%; padding: 5px; border: none;">
+            <img src="/assets/images/Auri_2025/Auri_v2.png" alt="v2" style="width: 100%; border-radius: 5px;">
+        </td>
+    </tr>
+</table>
 ---
 
 ## Conference Presentations / 학회 발표
