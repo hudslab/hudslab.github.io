@@ -2,7 +2,7 @@
 layout: post
 title: "Photos"
 description: "HUDS Lab Photos – Seminars, Conferences, and Lab Events"
-image: assets/images/back/back_photos.jpg   # 이게 타일 배경
+image: assets/images/back/photo.jpg   # 이게 타일 배경
 nav-menu: true
 permalink: /photos/
 ---
