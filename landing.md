@@ -38,12 +38,15 @@ permalink: /photos/
   ![Conference 2024](assets/images/conference2024.jpg){: width="420" }  
   <small>국제 학술대회에서 박사과정 및 석사과정 학생들이 연구 결과를 발표하는 장면입니다.</small>
 
-- **예시 2 – 국내 학회 발표**  
-  ![Domestic Conference](assets/images/conference_domestic.jpg){: width="420" }  
-  <small>국내 학회에서 HUDS Lab의 연구 성과를 공유하는 모습입니다.</small>
+- **예시 2 – 국내 학회 발표**
+## 대한교통학회 제93회 학술대회 (2025년 추계학술대회)
 
----
+- 날짜: 2025-09-25 ~ 2025-09-27  
+- 장소: 제주신화월드 랜딩컨벤션센터  
+- 설명: 강민지(석사과정) 학생이 참석하여 연구 성과를 발표 및 단체 사진입니다.  
 
+![KST Conference 2025](assets/images/학회 발표 사진_2025/1. 교통학회_추계/교통학회_단체사진_.jpg){: width="420" }
+- 
 추가 사진은 위 형식을 그대로 복사하여  
 - **제목**,  
 - **날짜**,  
