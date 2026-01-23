@@ -17,7 +17,7 @@ permalink: /photos/
 ## Urban Data Analytics Workshop / 도시 데이터 분석 워크숍 
 
 - **날짜**: 2026-02-04 ~ 2026-02-08 (예정)
-- **장소**: 일본 도쿄 및 츠쿠바대학교
+- **장소**: 일본 도쿄 및 츠쿠바대학교 일원
 
 ---
 
@@ -48,8 +48,8 @@ permalink: /photos/
 - **날짜**: 2025-10-31 ~ 2025-11-01
 - **장소**: 국립한국교통대학교 충주캠퍼스
 - **발표연구**
--  · 대중교통 기반 생활권 형성을 위한 기초생활인프라 접근성 연구(강민지·엄선용)
--  · 스케일링 분석을 활용한 기초생활인프라 공급 적정성 분석(이채원·엄선용·이명훈)
+  대중교통 기반 생활권 형성을 위한 기초생활인프라 접근성 연구(강민지·엄선용)<br>
+  스케일링 분석을 활용한 기초생활인프라 공급 적정성 분석(이채원·엄선용·이명훈)
 <table style="width: 100%; border: none; background: transparent; margin: 0; table-layout: fixed;">
   <tr style="border: none;">
     <td style="width: 33.3%; padding: 3px; border: none;">
