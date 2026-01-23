@@ -47,7 +47,7 @@ complex, large-scale systems through data and to provide evidence and solutions 
   신소재공학관 626호  
 
 - **Contact**  
-  - Email: sunyongeom@hanyang.ac.kr  
+  - Email: hylanduselab@gmail.com
   - Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=lIETjGEAAAAJ&hl=ja)
 
 ---
