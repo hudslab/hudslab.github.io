@@ -29,7 +29,7 @@ permalink: /photos/
 - **날짜**: 2025-10-31 ~ 2025-11-01
 - **장소**: 국립한국교통대학교 충주캠퍼스
 - **발표연구** 
-  - 대중교통 기반 생활권 형성을 위한 기초생활인프라 접근성 연구(강민지·엄선용), 
+  - 대중교통 기반 생활권 형성을 위한 기초생활인프라 접근성 연구(강민지·엄선용) 
   - 스케일링 분석을 활용한 기초생활인프라 공급 적정성 분석(이채원·엄선용·이명훈)
 <table style="width: 100%; border: none; background: transparent; margin: 0; table-layout: fixed;">
   <tr style="border: none;">
