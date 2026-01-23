@@ -48,10 +48,10 @@ permalink: /photos/
 <table style="width: 100%; border: none; background: transparent;">
     <tr style="background: transparent; border: none;">
         <td style="width: 50%; padding: 5px; border: none;">
-            <img src="/assets/images/Conference_2025/KST_Autumn/KST_conference_fall_presentation_photo.jpg" alt="KST Presentation" style="width: 100%; border-radius: 5px;">
+            <img src="/assets/images/conference_2025/KST_Autumn/KST_conference_fall_presentation_photo.jpg" alt="KST Presentation" style="width: 100%; border-radius: 5px;">
         </td>
         <td style="width: 50%; padding: 5px; border: none;">
-            <img src="/assets/images/Conference_2025/KST_Autumn/KST_conference_fall_group_photo.jpg" alt="KST Group Photo" style="width: 100%; border-radius: 5px;">
+            <img src="/assets/images/conference_2025/KST_Autumn/KST_conference_fall_group_photo.jpg" alt="KST Group Photo" style="width: 100%; border-radius: 5px;">
         </td>
     </tr>
 </table>
