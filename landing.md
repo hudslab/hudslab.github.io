@@ -44,7 +44,6 @@ permalink: /photos/
 - **날짜**: 2025-09-25 ~ 2025-09-27  
 - **장소**: 제주신화월드 랜딩컨벤션센터  
 - **설명**: 연구실 구성원(강민지 석사과정) 학생이 참석하여 연구 성과를 공유한 학회 현장 사진입니다.
-
 <table style="width: 100%; border: none; background: transparent;">
     <tr style="background: transparent; border: none;">
         <td style="width: 50%; padding: 5px; border: none;">
