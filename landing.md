@@ -34,7 +34,7 @@ permalink: /photos/
 - **날짜**: 2025-09-25 ~ 2025-09-27
 - **장소**: 제주신화월드 랜딩컨벤션센터
 - **설명**: 연구실 구성원(강민지) 학생이 연구 결과 및 성과를 발표하였습니다.
-- **주제 및 제목**: 대중교통을 이용한 시설 이용 접근성 평가(강민지·엄선용)
+- **주제 및 저자**: 대중교통을 이용한 시설 이용 접근성 평가(강민지·엄선용)
 <table style="width: 100%; border: none; background: transparent; margin: 0;">
   <tr style="border: none;">
     <td style="width: 50%; padding: 5px; border: none;">
