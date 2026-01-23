@@ -11,7 +11,7 @@ permalink: /photos/
 
 # Photos / 연구실 사진
 
-연구실 세미나, 학회 발표, 워크숍 등 Land use Lab의 활동을 기록한 사진들입니다.  
+연구실 세미나, 학회 발표, 워크숍 등 Land use Lab의 활동 기록입니다. 
 
 ---
 
