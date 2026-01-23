@@ -56,13 +56,13 @@ permalink: /photos/
 <table style="width: 100%; border: none; background: transparent; margin: 0;">
   <tr style="border: none;">
     <td style="width: 33%; padding: 5px; border: none;">
-      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_presentation_kangmingi.jpg" alt="Kang Minji Presentation" style="width: 100%; border-radius: 5px;">
+      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_presentation_kangmingi.png" alt="Kang Minji Presentation" style="width: 100%; border-radius: 5px;">
     </td>
     <td style="width: 33%; padding: 5px; border: none;">
-      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_presentation_leechaewon.jpg" alt="Lee Chaewon Presentation" style="width: 100%; border-radius: 5px;">
+      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_presentation_leechaewon.png" alt="Lee Chaewon Presentation" style="width: 100%; border-radius: 5px;">
     </td>
     <td style="width: 33%; padding: 5px; border: none;">
-      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_group_photo.jpg" alt="Group Photo" style="width: 100%; border-radius: 5px;">
+      <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_group_photo.png" alt="Group Photo" style="width: 100%; border-radius: 5px;">
     </td>
   </tr>
 </table>
