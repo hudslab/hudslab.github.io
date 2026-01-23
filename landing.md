@@ -16,6 +16,8 @@ permalink: /photos/
 
 ## Urban Data Analytics Workshop / 도시 데이터 분석 워크숍 및 외부활동
 
+- **날짜**: 2026-02-04 ~ 2026-02-08
+- **장소**: 일본 도쿄 및 츠쿠바대학교
 
 ---
 
@@ -25,7 +27,6 @@ permalink: /photos/
 
 - **날짜**: 2025-09-25 ~ 2025-09-27
 - **장소**: 제주신화월드 랜딩컨벤션센터
-- **설명**: 연구실 구성원(강민지) 학생이 연구 결과 및 성과를 발표하였습니다.
 - **주제 및 저자**: 대중교통을 이용한 시설 이용 접근성 평가(강민지·엄선용)
 <table style="width: 100%; border: none; background: transparent; margin: 0;">
   <tr style="border: none;">
@@ -42,7 +43,6 @@ permalink: /photos/
 
 - **날짜**: 2025-10-31 ~ 2025-11-01
 - **장소**: 국립한국교통대학교 충주캠퍼스
-- **설명**: 연구실 구성원(강민지, 이채원) 학생들이 연구 결과 및 성과를 발표하였습니다.
 - **주제 및 저자**: 대중교통 기반 생활권 형성을 위한 기초생활인프라 접근성 연구(강민지·엄선용), 스케일링 분석을 활용한 기초생활인프라 공급 적정성 분석(이채원·엄선용·이명훈)
 
 <table style="width: 100%; border: none; background: transparent; margin: 0; table-layout: fixed;">
