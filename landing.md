@@ -41,16 +41,17 @@ permalink: /photos/
 - **예시 2 – 국내 학회 발표**
 ## 대한교통학회 제93회 학술대회 (2025년 추계학술대회)
 
-- 날짜: 2025-09-25 ~ 2025-09-27  
-- 장소: 제주신화월드 랜딩컨벤션센터  
-- 설명: 강민지(석사과정) 학생이 참석하여 연구 성과를 발표 및 단체 사진입니다.  
+- **날짜**: 2025-09-25 ~ 2025-09-27  
+- **장소**: 제주신화월드 랜딩컨벤션센터  
+- **설명**: 연구실 구성원(강민지 석사과정) 학생이 참석하여 연구 성과를 공유한 학회 현장 사진입니다.
+
 <table style="width: 100%; border: none; background: transparent;">
     <tr style="background: transparent; border: none;">
         <td style="width: 50%; padding: 5px; border: none;">
-            <img src="assets/images/학회%20발표%20사진_2025/1.%20교통학회_추계/교통학회_발표사진(2025%20추계).jpg" alt="발표 사진" style="width: 100%; border-radius: 5px;">
+            <img src="/assets/images/Conference_2025/KST_Autumn/KST_conference_fall_presentation_photo.jpg" alt="Presentation" style="width: 100%; border-radius: 5px;">
         </td>
         <td style="width: 50%; padding: 5px; border: none;">
-            <img src="assets/images/학회%20발표%20사진_2025/1.%20교통학회_추계/교통학회_단체사진_.jpg" alt="단체 사진" style="width: 100%; border-radius: 5px;">
+            <img src="/assets/images/Conference_2025/KST_conference_fall_group_photo.jpg" alt="Group Photo" style="width: 100%; border-radius: 5px;">
         </td>
     </tr>
 </table>
