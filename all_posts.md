@@ -1,15 +1,12 @@
 ---
-layout: post
-title: "Awards"
-description: "Land Use Lab Awards & Honors"
-image: assets/images/back1.jpg
-nav-menu: false
-permalink: /awards/
+layout: allposts
+title: All posts
+landing-title: 'All posts'
+nav-menu: true
+description: null
+image: null
+author: null
+show_tile: false
 ---
 
-# Awards / 수상성과
-
-## Awards / 수상
-
-- (예: 2025년 ○○학회 우수논문상, ○○, ○○)
-
+<h1>All posts</h1>
