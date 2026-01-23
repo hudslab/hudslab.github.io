@@ -2,7 +2,8 @@
 layout: post
 title: "Professor"
 description: "Professor Sunyong Eom – HYU Land Use Laboratory"
-image: 
+image: assets/images/back2.jpg
+hide_banner: true
 nav-menu: true
 permalink: /professor/
 ---
