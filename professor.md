@@ -61,7 +61,7 @@ complex, large-scale systems through data and to provide evidence and solutions 
 
 ---
 
-## 학력 Education
+## 학력 / Education
 
 - **Apr. 2013 – Mar. 2018**  
   Risk Engineering, Graduate School of Systems and Information Engineering, University of Tsukuba  
@@ -83,7 +83,7 @@ complex, large-scale systems through data and to provide evidence and solutions 
 
 ---
 
-## 연구 및 교육경력 Professional Appointment
+## 연구 및 교육경력 / Professional Appointment
 
 - **Jan. 2025 – Present**  
   Associate Professor, Graduate School of Urban Science, Hanyang University  
@@ -107,7 +107,7 @@ complex, large-scale systems through data and to provide evidence and solutions 
   Engineer / Researcher, Toyota Transportation Research Institute  
 
 ---
-## Professor Publications / 교수 논문
+## Publications / 논문
 
 ### ■ 국제 저널 (SCIE, SSCI, Peer-reviewed)
 
