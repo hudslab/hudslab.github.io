@@ -14,20 +14,12 @@ permalink: /photos/
 
 ---
 
-## Urban Data Analytics Workshop / 도시 데이터 분석 워크숍
+## Urban Data Analytics Workshop / 도시 데이터 분석 워크숍 및 외부활동
 
-- **날짜**: 2025-07-15  
-- **설명**: 공간 빅데이터와 GTFS, GIS를 활용한 도시 데이터 분석 실습 장면입니다.  
-
-![Workshop 2025](assets/images/workshop2025.jpg){: width="420" }
 
 ---
 
 ## Conference Presentations / 학회 발표
-
-- **예시 1 – 국제 학회 발표**  
-  ![Conference 2024](assets/images/conference2024.jpg){: width="420" }  
-  <small>국제 학술대회에서 박사과정 및 석사과정 학생들이 연구 결과를 발표하는 장면입니다.</small>
 
 ##  2025년 대한교통학회 추계학술대회
 
