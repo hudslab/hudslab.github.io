@@ -56,10 +56,10 @@ permalink: /photos/
       <img src="/assets/images/conference_2025/KST_Autumn/KST_conference_fall_presentation_photo.jpg" alt="Kang Minji" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
     </td>
     <td style="width: 33.3%; padding: 3px; border: none;">
-      <img src="/assets/images/conference_2025/KST_Autumn/KST_conference_fall_presentation_kangmingi.jpg.png" alt="Kang Minji_v2" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+      <img src="/assets/images/conference_2025/KST_Autumn/KST_conference_fall_group_photo.jpg" alt="Group" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
     </td>
     <td style="width: 33.3%; padding: 3px; border: none;">
-      <img src="/assets/images/conference_2025/KST_Autumn/KST_conference_fall_group_photo.jpg" alt="Group" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+      <img src="/assets/images/conference_2025/KST_Autumn/KST_conference_fall_presentation_kangmingi.jpg.png" alt="Kang Minji_v2" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
     </td>
   </tr>
 </table>
