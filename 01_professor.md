@@ -41,7 +41,7 @@ complex, large-scale systems through data and to provide evidence and solutions 
 ## Affiliation & Profile / 소속 및 프로필
 
 - **Affiliation**  
-  Associate Professor, Graduate School of Urban Science, Hanyang University, Seoul, Korea  
+  Associate Professor, Graduate School of Urban Studies, Hanyang University, Seoul, Korea  
   한양대학교 도시대학원 부교수, HYU Urban Land Use Lab Director
 
 - **Office (연구실 위치)**  
