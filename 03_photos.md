@@ -23,7 +23,7 @@ permalink: /photos/
 <table style="width: 100%; border: none; background: transparent; margin: 0; table-layout: fixed;">
   <tr style="border: none;">
     <td style="width: 33.3%; padding: 3px; border: none;">
-      <img src="/assets/images/Japan_workshop_2026\Group_Photo\Tsukuba GroupPhoto_v1.jpg" alt="Tsukuba GroupPhoto" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+      <img src="/assets/images/Japan_workshop_2026\Group_Photo\Tsukuba GroupPhoto_v3.jpg" alt="Tsukuba GroupPhoto" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
     </td>
     <td style="width: 33.3%; padding: 3px; border: none;">
       <img src="/assets/images/Japan_workshop_2026/Group_Photo/Tsukuba_Group_Photo_v2.jpg" alt="Tsukuba GroupPhoto_v2" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
