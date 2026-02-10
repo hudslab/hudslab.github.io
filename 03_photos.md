@@ -17,8 +17,8 @@ permalink: /photos/
 
 ## Urban Data Analytics Workshop / 도시 데이터 분석 워크숍 
 
-- **날짜**: 2026-02-04 ~ 2026-02-08 (예정)
-- **장소**: 일본 도쿄 및 츠쿠바대학교 일원
+- **날짜**: 2026-02-04 ~ 2026-02-08
+- **장소**: 일본 도쿄 및 츠쿠바대학교
 
 <table style="width: 100%; border: none; background: transparent; margin: 0; table-layout: fixed;">
   <tr style="border: none;">
