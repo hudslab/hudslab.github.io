@@ -48,6 +48,20 @@ permalink: /photos/
   </tr>
 </table>
 
+<table style="width: 100%; border: none; background: transparent; margin: 0; table-layout: fixed;">
+  <tr style="border: none;">
+    <td style="width: 33.3%; padding: 3px; border: none;">
+      <img src="/assets/images/Japan_workshop_2026/presentation_photo/asw_presentation_photo.jpg" alt="Tsukuba GroupPhoto" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+    </td>
+    <td style="width: 33.3%; padding: 3px; border: none;">
+      <img src="/assets/images/Japan_workshop_2026/presentation_photo/sjk__presentation_photo.jpg" alt="Tsukuba GroupPhoto_v2" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+    </td>
+    <td style="width: 33.3%; padding: 3px; border: none;">
+      <img src="/assets/images/Japan_workshop_2026/presentation_photo/kimminjae_presentation_photo.jpg" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 연구실 외부활동
