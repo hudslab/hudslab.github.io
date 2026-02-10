@@ -21,8 +21,7 @@ permalink: /photos/
 
 - **날짜**: 2026-02-04 ~ 2026-02-08
 - **장소**: 일본 도쿄 및 츠쿠바대학교
-- **참석자**<br>
- (엄선용, 안성원, 김승훈, 강민지, 김민재, 신준규, 김진용)
+- **참석자**: 엄선용, 안성원, 김승훈, 강민지, 김민재, 신준규, 김진용
 
 <table style="width: 100%; border: none; background: transparent; margin: 0; table-layout: fixed;">
   <tr style="border: none;">
