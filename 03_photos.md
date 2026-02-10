@@ -20,6 +20,20 @@ permalink: /photos/
 - **날짜**: 2026-02-04 ~ 2026-02-08 (예정)
 - **장소**: 일본 도쿄 및 츠쿠바대학교 일원
 
+<table style="width: 100%; border: none; background: transparent; margin: 0; table-layout: fixed;">
+  <tr style="border: none;">
+    <td style="width: 33.3%; padding: 3px; border: none;">
+      <img src="/assets/images/Japan_workshop_2026\Group_Photo\Tsukuba GroupPhoto_v1.jpg" alt="Tsukuba GroupPhoto" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+    </td>
+    <td style="width: 33.3%; padding: 3px; border: none;">
+      <img src="/assets/images/Japan_workshop_2026\Group_Photo\Tsukuba GroupPhoto_v2.jpg" alt="Tsukuba GroupPhoto_v2" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+    </td>
+    <td style="width: 33.3%; padding: 3px; border: none;">
+      <img src="/assets/images/Japan_workshop_2026\Group_Photo\Prof_hiro_Group_Photo" alt="Prof_hiro_Group_Photo" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 연구실 외부활동
