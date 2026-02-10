@@ -5,7 +5,7 @@ description: "Land Use Lab Students – Publications & Conference Papers"
 image: assets/images/back/back_student
 show_page_image: false
 nav-menu: true
-permalink: /students/
+permalink: /student/
 ---
 # Students / 학생 소개
 
