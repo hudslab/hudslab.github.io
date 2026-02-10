@@ -2,7 +2,7 @@
 layout: post
 title: "Photos"
 description: "Land Use Lab Photos – Seminars, Conferences, and Lab Events"
-image: assets/images/back/photo.jpg   # 이게 타일 배경
+image: assets/images/back/back_photo_tokyo   # 이게 타일 배경
 show_page_image: false
 nav-menu: true
 permalink: /photos/
