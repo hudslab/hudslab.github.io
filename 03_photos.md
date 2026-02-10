@@ -21,12 +21,8 @@ permalink: /photos/
 
 - **날짜**: 2026-02-04 ~ 2026-02-08
 - **장소**: 일본 도쿄 및 츠쿠바대학교
-- **발표연구**<br>
- How Have Age Structures Evolved in Korea and Japan? – Typologies and Transition Patterns(안성원)<br>
- Beyond the 15-Minute City Coverage: Diagnosing Structural Accessibility Deficits through Activity-Based Potential(김승훈)<br>
- Diagnosing compound mechanisms of public transport accessibility deficits: a GTFS-based multi-dimensional evaluation of reachability and multi-activity feasibility(강민지)<br>
- How does the built environment shape urban Vitality?: Pathways through Commercial Structure and Human Activity(김민재)<br>
- A Temporal Typological Analysis of Changes in Urban Spatial Structure and Morphology Based on Residential Area, Population and Density(신준규)
+- **참석자**<br>
+ (엄선용, 안성원, 김승훈, 강민지, 김민재, 신준규, 김진용)
 
 <table style="width: 100%; border: none; background: transparent; margin: 0; table-layout: fixed;">
   <tr style="border: none;">
