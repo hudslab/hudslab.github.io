@@ -21,7 +21,7 @@ permalink: /photos/
 
 - **날짜**: 2026-02-04 ~ 2026-02-08
 - **장소**: 일본 도쿄 및 츠쿠바대학교
-- **발표연구**
+- **발표연구**)<br>
  How Have Age Structures Evolved in Korea and Japan? – Typologies and Transition Patterns(안성원)<br>
  Beyond the 15-Minute City Coverage: Diagnosing Structural Accessibility Deficits through Activity-Based Potential(김승훈)<br>
  Diagnosing compound mechanisms of public transport accessibility deficits: a GTFS-based multi-dimensional evaluation of reachability and multi-activity feasibility(강민지)<br>
