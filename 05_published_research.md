@@ -2,7 +2,7 @@
 layout: post
 title: "Published Research"
 description: "Published journal articles of Land Use Lab"
-image: /assets/images/back/back_prof.jpg
+image: /assets/paper_back.jpg
 show_page_image: false
 nav-menu: true
 permalink: /published-research/
