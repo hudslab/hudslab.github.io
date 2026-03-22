@@ -2,7 +2,7 @@
 layout: post
 title: "Conference"
 description: "Conference papers and presentations of Land Use Lab"
-image: /assets/conf_back.jpg
+image: /assets/images/conf_back.jpg
 show_page_image: false
 nav-menu: true
 permalink: /conference/
