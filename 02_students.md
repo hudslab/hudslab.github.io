@@ -11,7 +11,7 @@ permalink: /student/
 
 # Students / 학생 소개
 
-Land use Lab에는 **박사과정 3명, 석사과정 5명**의 대학원생이 재학 중입니다.  
+Land use Lab에는 **박사과정 4명, 석사과정 7명**의 대학원생이 재학 중입니다.  
 
 ---
 
