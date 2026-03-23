@@ -88,6 +88,33 @@ permalink: /photos/
 
 ## Conference Presentations / 학회 발표
 
+### 2026년 대한교통학회 춘계학술대회
+
+- **날짜**: 2026-03-12 ~ 2026-03-14
+- **장소**: 광주 김대중컨벤션센터
+- **발표연구**  
+  시설 커버율과 다중활동 기반 도시 보행 접근성 진단 프레임워크(김승훈·강민지·홍성경·엄선용)<br>
+  격자 단위 시간대별 대중교통 다양한 시설 접근성 결핍 진단: 시설 입지·분산·서비스 성능 기제 분석(강민지·이채원·엄선용)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%;">
+  
+  <div style="flex: 1 1 calc(50% - 10px); min-width: 280px;">
+    <img src="/assets/images/2026_conference/KST_spring/KST_fig_1.jpg" alt="KST Spring Figure 1" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+  </div>
+  
+  <div style="flex: 1 1 calc(50% - 10px); min-width: 280px;">
+    <img src="/assets/images/2026_conference/KST_spring/KST_fig_2.png" alt="KST Spring Figure 2" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+  </div>
+  
+  <div style="flex: 1 1 calc(50% - 10px); min-width: 280px;">
+    <img src="/assets/images/2026_conference/KST_spring/KST_fig_KSH.jpg" alt="KST Spring KSH" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+  </div>
+  
+  <div style="flex: 1 1 calc(50% - 10px); min-width: 280px;">
+    <img src="/assets/images/2026_conference/KST_spring/KST_fig_YCW.jpg" alt="KST Spring YCW" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+  </div>
+  
+</div>
+
 
 ### 2025년 대한국토·도시계획학회 추계학술대회
 
