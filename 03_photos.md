@@ -95,20 +95,25 @@ permalink: /photos/
 - **발표연구** 시설 커버율과 다중활동 기반 도시 보행 접근성 진단 프레임워크(김승훈·강민지·홍성경·엄선용)<br>
   격자 단위 시간대별 대중교통 다양한 시설 접근성 결핍 진단: 시설 입지·분산·서비스 성능 기제 분석(강민지·이채원·엄선용)
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; margin-top: 20px;">
-  <div style="flex: 1 1 calc(50% - 10px); min-width: 280px;">
-    <img src="/assets/images/2026_conference/KST_spring/KST_fig_1.jpg" alt="KST Spring Figure 1" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
-  </div>
-  <div style="flex: 1 1 calc(50% - 10px); min-width: 280px;">
-    <img src="/assets/images/2026_conference/KST_spring/KST_fig_2.png" alt="KST Spring Figure 2" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
-  </div>
-  <div style="flex: 1 1 calc(50% - 10px); min-width: 280px;">
-    <img src="/assets/images/2026_conference/KST_spring/KST_fig_KSH.jpg" alt="KST Spring KSH" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
-  </div>
-  <div style="flex: 1 1 calc(50% - 10px); min-width: 280px;">
-    <img src="/assets/images/2026_conference/KST_spring/KST_spring_YCW_v2.jpg" alt="KST Spring YCW" style="width: 100%; height: 250px; object-fit: cover; object-position: right; border-radius: 5px;">
-  </div>
-</div>
+<table style="width: 100%; border: none; background: transparent;">
+    <tr style="background: transparent; border: none;">
+        <td style="width: 50%; padding: 5px; border: none;">
+            <img src="/assets/images/2026_conference/KST_spring/KST_fig_1.jpg" alt="v1" style="width: 100%; border-radius: 5px;">
+        </td>
+        <td style="width: 50%; padding: 5px; border: none;">
+            <img src="/assets/images/2026_conference/KST_spring/KST_fig_2.png" alt="KST Spring Figure 2" alt="v2" style="width: 100%; border-radius: 5px;">
+        </td>
+    </tr>
+    <tr style="background: transparent; border: none;">
+        <td style="width: 50%; padding: 5px; border: none;">
+            <img src="/assets/images/2026_conference/KST_spring/KST_fig_KSH.jpg"  alt="v3" style="width: 100%; border-radius: 5px;">
+        </td>
+        <td style="width: 50%; padding: 5px; border: none;">
+            <img src="/assets/images/2026_conference/KST_spring/KST_spring_YCW_v2.jpg" alt="v4" style="width: 100%; border-radius: 5px;">
+        </td>
+    </tr>
+</table>
+
 
 ### 2025년 대한국토·도시계획학회 추계학술대회
 
