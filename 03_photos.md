@@ -108,7 +108,7 @@ permalink: /photos/
     <img src="/assets/images/2026_conference/KST_spring/KST_fig_KSH.jpg" alt="KST Spring KSH" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
   </div>
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px;">
-    <img src="/assets/images/2026_conference/KST_spring/KST_fig_YCW.jpg" alt="KST Spring YCW" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+    <img src="/assets/images/2026_conference/KST_spring/KST_spring_Yee_v2.png" alt="KST Spring YCW" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
   </div>
 </div>
 
