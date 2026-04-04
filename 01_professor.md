@@ -116,6 +116,10 @@ complex, large-scale systems through data and to provide evidence and solutions 
   “Multi-activity accessibility by public transit: Regional disparities in daily access to essential services,”  
   **Applied Geography**, Vol. 191, 104004, 2026. *(SSCI)*
   
+- L. Liu, S. Eom, and T. Suzuki,  
+  “Exploring network scale separation strategies for car-bicycle integration,”  
+  **Transportation Research Interdisciplinary Perspectives**, Vol. 36, 101920, March 2026. *(ESCI)*
+  
 - S. Eom, H. Kim, D. Hasegawa, and I. Yamada,  
   “Pedestrian movement with large-scale GPS records and transit-oriented development attributes,”  
   **Sustainable Cities and Society**, Vol. 102, 105223, January 2024. *(SCIE)*
