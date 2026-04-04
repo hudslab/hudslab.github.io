@@ -47,3 +47,71 @@ Land Use Lab의 학술대회 발표 실적입니다.
 - **도시공간의 양적·분포적 특성과 건물에너지소비량 간의 관계에 대한 연구**  
   김승훈, 이채원, 이명훈, 엄선용  
   2025 한국도시부동산학회 춘계학술대회, 서울대학교, 2025년 5월 24일.
+
+  ## Conference Presentations / 학회 발표
+
+### 2026년 대한교통학회 춘계학술대회
+
+- **날짜**: 2026-03-12 ~ 2026-03-14
+- **장소**: 광주 김대중컨벤션센터
+- **발표연구** 시설 커버율과 다중활동 기반 도시 보행 접근성 진단 프레임워크(김승훈·강민지·홍성경·엄선용)<br>
+  격자 단위 시간대별 대중교통 다양한 시설 접근성 결핍 진단: 시설 입지·분산·서비스 성능 기제 분석(강민지·이채원·엄선용)
+
+<table style="width: 100%; border: none; background: transparent;">
+    <tr style="background: transparent; border: none;">
+        <td style="width: 50%; padding: 5px; border: none;">
+            <img src="/assets/images/2026_conference/KST_spring/KST_fig_1.jpg" alt="v1" style="width: 100%; border-radius: 5px;">
+        </td>
+        <td style="width: 50%; padding: 5px; border: none;">
+            <img src="/assets/images/2026_conference/KST_spring/KST_fig_2.png" alt="KST Spring Figure 2" alt="v2" style="width: 100%; border-radius: 5px;">
+        </td>
+    </tr>
+    <tr style="background: transparent; border: none;">
+        <td style="width: 50%; padding: 5px; border: none;">
+            <img src="/assets/images/2026_conference/KST_spring/KST_fig_KSH.jpg"  alt="v3" style="width: 100%; border-radius: 5px;">
+        </td>
+        <td style="width: 50%; padding: 5px; border: none;">
+            <img src="/assets/images/2026_conference/KST_spring/KST_spring_YCW_v2.jpg" alt="v4" style="width: 100%; border-radius: 5px;">
+        </td>
+    </tr>
+</table>
+
+
+### 2025년 대한국토·도시계획학회 추계학술대회
+
+- **날짜**: 2025-10-31 ~ 2025-11-01
+- **장소**: 국립한국교통대학교 충주캠퍼스
+- **발표연구** 대중교통 기반 생활권 형성을 위한 기초생활인프라 접근성 연구(강민지·엄선용)<br>
+  스케일링 분석을 활용한 기초생활인프라 공급 적정성 분석(이채원·엄선용·이명훈)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; margin-top: 20px;">
+  <div style="flex: 1 1 calc(33.33% - 10px); min-width: 250px;">
+    <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_presentation_kangmingi.png" alt="Kang Minji" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+  </div>
+  <div style="flex: 1 1 calc(33.33% - 10px); min-width: 250px;">
+    <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_presentation_leechaewon.png" alt="Lee Chaewon" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+  </div>
+  <div style="flex: 1 1 calc(33.33% - 10px); min-width: 250px;">
+    <img src="/assets/images/conference_2025/KPA_Autumn/KPA_conference_fall_group_photo.png" alt="Group" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+  </div>
+</div>
+
+<br>
+
+### 2025년 대한교통학회 추계학술대회
+
+- **날짜**: 2025-09-25 ~ 2025-09-27
+- **장소**: 제주신화월드 랜딩컨벤션센터
+- **발표연구** 대중교통을 이용한 시설 이용 접근성 평가(강민지·엄선용)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; margin-top: 20px;">
+  <div style="flex: 1 1 calc(33.33% - 10px); min-width: 250px;">
+    <img src="/assets/images/conference_2025/KST_Autumn/KST_conference_fall_presentation_photo.jpg" alt="Kang Minji" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+  </div>
+  <div style="flex: 1 1 calc(33.33% - 10px); min-width: 250px;">
+    <img src="/assets/images/conference_2025/KST_Autumn/KST_conference_fall_group_photo.jpg" alt="Group" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+  </div>
+  <div style="flex: 1 1 calc(33.33% - 10px); min-width: 250px;">
+    <img src="/assets/images/conference_2025/KST_Autumn/KST_conference_fall_presentation_kangmingi.jpg.png" alt="Kang Minji_v2" style="width: 100%; height: 250px; object-fit: cover; border-radius: 5px;">
+  </div>
+</div>
