@@ -10,7 +10,7 @@ permalink: /published-research/
 
 # Published Research / 게재 논문
 
-Land Use Lab의 게재 논문 목록입니다.
+Land Use Lab의 게재 논문 목록입니다. 엄선용 교수님 게재 논문은 Professor 탭에서 확인하실 수 있습니다. 
 
 ---
 
